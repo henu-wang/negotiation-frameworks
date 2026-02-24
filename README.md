@@ -1,469 +1,569 @@
 # Negotiation Frameworks
 
-A practical collection of **proven negotiation frameworks** from the world's top negotiators — Chris Voss (FBI), Roger Fisher (Harvard), Robert Cialdini, and others. Whether you're negotiating a salary, a deal, a contract, or a conflict, these frameworks provide structure and strategy.
+> Practical decision frameworks for negotiation — BATNA analysis, ZOPA calculation, anchoring strategies, and ready-to-use templates for salary, business, and everyday negotiations.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+Negotiation is a skill that compounds. A 10% better outcome on salary negotiations alone can mean hundreds of thousands of dollars over a career. This guide provides structured frameworks that turn negotiation from an art into a repeatable process.
+
+---
 
 ## Table of Contents
 
-- [Negotiation Fundamentals](#negotiation-fundamentals)
-- [Frameworks](#frameworks)
-  - [1. BATNA (Best Alternative)](#1-batna-best-alternative)
-  - [2. ZOPA (Zone of Possible Agreement)](#2-zopa-zone-of-possible-agreement)
-  - [3. Tactical Empathy (Chris Voss)](#3-tactical-empathy-chris-voss)
-  - [4. Principled Negotiation (Harvard)](#4-principled-negotiation-harvard)
-  - [5. Anchoring Strategy](#5-anchoring-strategy)
-  - [6. The Ackerman Model](#6-the-ackerman-model)
-  - [7. Cialdini's Influence Principles](#7-cialdinis-influence-principles)
-  - [8. Logrolling (Trading Across Issues)](#8-logrolling-trading-across-issues)
-  - [9. The Black Swan Method](#9-the-black-swan-method)
-- [Preparation Templates](#preparation-templates)
-- [Specific Scenarios](#specific-scenarios)
-  - [Salary Negotiation](#salary-negotiation)
-  - [Business Deal](#business-deal)
-  - [Vendor/Contract Negotiation](#vendorcontract-negotiation)
-  - [Conflict Resolution](#conflict-resolution)
-- [Tactical Toolkit](#tactical-toolkit)
-- [Common Mistakes](#common-mistakes)
-- [Resources](#resources)
-- [License](#license)
+- [Core Concepts](#core-concepts)
+  - [BATNA: Your Source of Power](#batna-your-source-of-power)
+  - [ZOPA: The Zone of Possible Agreement](#zopa-the-zone-of-possible-agreement)
+  - [Reservation Price vs Aspiration Price](#reservation-price-vs-aspiration-price)
+- [Framework 1: Preparation Blueprint](#framework-1-preparation-blueprint)
+  - [The Negotiation Prep Checklist](#the-negotiation-prep-checklist)
+  - [Information Gathering Template](#information-gathering-template)
+  - [Interests vs Positions](#interests-vs-positions)
+- [Framework 2: Anchoring Strategy](#framework-2-anchoring-strategy)
+  - [When to Anchor First](#when-to-anchor-first)
+  - [How to Set an Effective Anchor](#how-to-set-an-effective-anchor)
+  - [Defending Against Anchors](#defending-against-anchors)
+- [Framework 3: Concession Strategy](#framework-3-concession-strategy)
+  - [The Concession Pattern](#the-concession-pattern)
+  - [Trading Concessions for Value](#trading-concessions-for-value)
+  - [The Reciprocity Principle](#the-reciprocity-principle)
+- [Framework 4: Multi-Issue Negotiations](#framework-4-multi-issue-negotiations)
+  - [Issue Scoring Matrix](#issue-scoring-matrix)
+  - [Logrolling: Trading Across Issues](#logrolling-trading-across-issues)
+  - [Package Deals vs Issue-by-Issue](#package-deals-vs-issue-by-issue)
+- [Framework 5: Salary Negotiation](#framework-5-salary-negotiation)
+  - [The Complete Salary Negotiation Playbook](#the-complete-salary-negotiation-playbook)
+  - [Script Templates](#script-templates)
+  - [Negotiating Beyond Base Salary](#negotiating-beyond-base-salary)
+- [Framework 6: Business Deal Negotiation](#framework-6-business-deal-negotiation)
+  - [Vendor Contract Negotiation](#vendor-contract-negotiation)
+  - [Partnership Agreement Framework](#partnership-agreement-framework)
+- [Framework 7: Difficult Negotiations](#framework-7-difficult-negotiations)
+  - [Dealing with Hardball Tactics](#dealing-with-hardball-tactics)
+  - [Negotiating with More Powerful Parties](#negotiating-with-more-powerful-parties)
+  - [Deadlock Breaking Strategies](#deadlock-breaking-strategies)
+- [Framework 8: Cross-Cultural Negotiation](#framework-8-cross-cultural-negotiation)
+- [Templates and Worksheets](#templates-and-worksheets)
+- [Decision Rules for Common Scenarios](#decision-rules-for-common-scenarios)
+- [Further Resources](#further-resources)
 
 ---
 
-## Negotiation Fundamentals
+## Core Concepts
 
-### The Two Schools
+### BATNA: Your Source of Power
 
-| School | Philosophy | Key Authors |
-|--------|-----------|-------------|
-| **Principled (Win-Win)** | Expand the pie, find mutual gains | Fisher & Ury (Harvard) |
-| **Tactical (Psychological)** | Leverage psychology, emotional intelligence | Chris Voss (FBI) |
+**BATNA** (Best Alternative To a Negotiated Agreement) is the single most important concept in negotiation. It is what you will do if this negotiation fails.
 
-**Best approach:** Combine both. Use principled negotiation for structure and tactical empathy for execution.
+| BATNA Strength | Example | Implications |
+|---------------|---------|-------------|
+| **Strong** | You have 3 job offers | You can walk away easily; negotiate aggressively |
+| **Moderate** | You have a decent current job | You are not desperate but lack urgency to push hard |
+| **Weak** | You are unemployed with bills due | Accept reasonable offers quickly; focus on improving BATNA |
 
-### The Golden Rules
+**BATNA improvement strategies:**
 
-1. **Never negotiate against yourself** — Don't make concessions without receiving something in return
-2. **The person who cares less has more power** — Your BATNA determines your leverage
-3. **Listen more than you talk** — Information is power; every word they say reveals interests
-4. **Preparation is 90% of negotiation** — The work happens before you sit down
-5. **Never split the difference** — Creative solutions often beat 50/50 compromises
+1. **Create alternatives**: Apply to more jobs, get competing bids from vendors, develop in-house capabilities
+2. **Improve existing alternatives**: Negotiate better terms with current employer, strengthen relationships with backup vendors
+3. **Reduce dependency**: Lower your costs, extend your runway, diversify your client base
 
----
+**Critical rule:** Never reveal a weak BATNA. If asked "Do you have other offers?", redirect: "I am focused on finding the right fit. Let us talk about the value I can bring to this role."
 
-## Frameworks
+### ZOPA: The Zone of Possible Agreement
 
-### 1. BATNA (Best Alternative)
+The ZOPA exists between the buyer's maximum willingness to pay and the seller's minimum acceptable price.
 
-**Origin:** Roger Fisher & William Ury, *Getting to Yes*
+```
+Seller's Reservation Price          Buyer's Reservation Price
+         |                                    |
+         |<--------- ZOPA ------------------>|
+         |                                    |
+    $80,000                              $120,000
 
-**Definition:** Your Best Alternative To a Negotiated Agreement — what you'll do if the negotiation fails.
+    Seller won't go         Buyer won't go
+    below $80K              above $120K
+```
 
-**Why it matters:** Your BATNA is the source of your negotiation power. A strong BATNA means you can walk away; no BATNA means you're desperate.
+**If no ZOPA exists** (seller's minimum > buyer's maximum), no deal is possible. Recognize this early to avoid wasting time.
 
-**How to develop:**
+**ZOPA analysis template:**
 
 ```markdown
-## BATNA Analysis
+## ZOPA Analysis
 
-### My BATNA
-1. What will I do if this negotiation fails?
-   →
-2. What's the value of my best alternative?
-   →
-3. Can I improve my BATNA before negotiating?
-   →
+My reservation price (walk-away point): $___
+My aspiration price (ideal outcome):    $___
+My estimate of their reservation price: $___
+My estimate of their aspiration price:  $___
 
-### Their BATNA (estimate)
-1. What will they do if this negotiation fails?
-   →
-2. How good are their alternatives?
-   →
-3. Can I weaken their BATNA?
-   →
-
-### Implication
-My walk-away point: $___ or [condition]
-Their likely walk-away point: $___ or [condition]
+Estimated ZOPA: [$___ to $___]
+Target agreement point: $___
 ```
 
-**Key insight:** Never enter a negotiation without a BATNA. If yours is weak, improve it before negotiating.
+### Reservation Price vs Aspiration Price
+
+| Concept | Definition | Purpose |
+|---------|-----------|---------|
+| **Reservation Price** | The worst deal you would accept | Prevents bad deals |
+| **Aspiration Price** | The best realistic outcome | Prevents leaving value on the table |
+| **Anchor** | The first number put on the table | Shapes the negotiation range |
+
+**Research finding:** Negotiators who set ambitious aspiration prices consistently achieve better outcomes than those who focus only on their reservation price. Aim high, but with justification.
 
 ---
 
-### 2. ZOPA (Zone of Possible Agreement)
+## Framework 1: Preparation Blueprint
 
-**Definition:** The range between both parties' reservation prices where a deal is possible.
+### The Negotiation Prep Checklist
 
-```
-Buyer's max         Seller's min
-    $90K                $75K
-      |    ZOPA = $75K-$90K    |
-      |◄──────────────────────►|
-$60K ─────────────────────────────── $100K
-Buyer wants to pay         Seller wants to receive
-as little as possible      as much as possible
-```
+Complete this before any significant negotiation:
 
-**If ZOPA exists:** Negotiation is about where in the zone you land
-**If no ZOPA:** No deal is possible without changing the variables
+- [ ] **Define your goal**: What specific outcome do you want?
+- [ ] **Identify your BATNA**: What will you do if negotiations fail?
+- [ ] **Set your reservation price**: What is your walk-away point?
+- [ ] **Set your aspiration price**: What is your ideal outcome?
+- [ ] **Research their BATNA**: What are their alternatives?
+- [ ] **Estimate the ZOPA**: Is there room for agreement?
+- [ ] **List all issues**: What can be negotiated beyond price?
+- [ ] **Rank your priorities**: Which issues matter most to you?
+- [ ] **Anticipate their priorities**: What matters most to them?
+- [ ] **Prepare your anchor**: What first offer will you make (or deflect)?
+- [ ] **Plan your concessions**: What will you give up, and in what order?
+- [ ] **Prepare your justifications**: Why is your position fair and reasonable?
+- [ ] **Rehearse**: Practice key moments with a trusted colleague
 
-**How to find the ZOPA:**
-1. Determine your reservation price (absolute walk-away)
-2. Estimate their reservation price
-3. If overlap exists → negotiate within the zone
-4. If no overlap → either expand the pie (add issues) or walk away
-
----
-
-### 3. Tactical Empathy (Chris Voss)
-
-**Origin:** Chris Voss, *Never Split the Difference*
-
-**Core tools:**
-
-| Technique | How to Use | Example |
-|-----------|-----------|---------|
-| **Mirroring** | Repeat the last 1-3 words as a question | "You're having budget issues?" |
-| **Labeling** | Name the other person's emotion | "It sounds like you're frustrated with the timeline." |
-| **Calibrated Questions** | Ask "How" and "What" questions (never "Why") | "How am I supposed to do that?" "What's the biggest challenge here?" |
-| **Accusation Audit** | List every negative thing they could think about you, upfront | "You probably think we're too expensive, too slow, and hard to work with..." |
-| **Late-night FM DJ voice** | Slow, calm, downward-inflecting tone | Conveys authority and calm |
-| **Strategic "No"** | Get them to say "that's right" by summarizing their position | Summarize until they say "that's right" (NOT "you're right") |
-
-**The goal:** Make the other person feel heard and understood. When people feel understood, their guard drops and they become collaborative.
-
----
-
-### 4. Principled Negotiation (Harvard)
-
-**Origin:** Fisher & Ury, *Getting to Yes*
-
-**Four principles:**
-
-| Principle | Description | Tactic |
-|-----------|-------------|--------|
-| **Separate people from problem** | Attack the problem, not the person | Use "we" language, acknowledge emotions |
-| **Focus on interests, not positions** | Understand WHY they want what they want | Ask "Why is that important to you?" |
-| **Generate options for mutual gain** | Brainstorm before deciding | "What if we..." sessions |
-| **Insist on objective criteria** | Use fair standards, not willpower | Market rates, precedent, expert opinion |
-
-**Positions vs. Interests example:**
-```
-Position: "I want a corner office" (what they say)
-Interest: "I need privacy for client calls and recognition for my seniority" (what they need)
-
-Solution: Private phone booth + title change (satisfies interest, not position)
-```
-
----
-
-### 5. Anchoring Strategy
-
-**Principle:** The first number on the table heavily influences the final outcome.
-
-**When to anchor first:**
-- You have good information about the market/value
-- You want to frame the negotiation
-
-**When to let them anchor:**
-- You have less information than they do
-- Their anchor might reveal useful information
-
-**Counter-anchoring techniques:**
-1. **Ignore it:** Don't engage with an extreme anchor. Reset the conversation.
-2. **Re-anchor:** Provide your own well-researched counter-anchor
-3. **Use objective criteria:** "Based on market data, the range is..."
-4. **Break it down:** "Help me understand how you arrived at that number"
-
----
-
-### 6. The Ackerman Model
-
-**Origin:** Used by the CIA for hostage negotiations, popularized by Chris Voss
-
-**Process for price negotiations:**
-
-```
-Step 1: Set your target price (your goal)
-Step 2: Your first offer = 65% of target
-Step 3: Plan three raises: 85%, 95%, 100% of target
-Step 4: Use empathy and calibrated questions between offers
-Step 5: On your final number, use a non-round figure ($37,893 not $38,000)
-Step 6: Include a non-monetary item with the final offer
-
-Example (buying, target = $100K):
-  Offer 1: $65,000   (65%)
-  Offer 2: $85,000   (85%) + empathy + "How am I supposed to do that?"
-  Offer 3: $95,000   (95%) + label their constraints
-  Offer 4: $100,000  (100%) exact — appears calculated, not arbitrary
-  Final:   $99,723   + include non-monetary item (closing timeline, warranty)
-```
-
-**Why it works:**
-- Decreasing increments signal you're reaching your limit
-- Precise numbers appear researched and calculated
-- Non-monetary items show flexibility and creativity
-
----
-
-### 7. Cialdini's Influence Principles
-
-**Origin:** Robert Cialdini, *Influence: The Psychology of Persuasion*
-
-| Principle | Application in Negotiation |
-|-----------|---------------------------|
-| **Reciprocity** | Give something first (information, concession, help) |
-| **Commitment/Consistency** | Get small agreements early; people want to stay consistent |
-| **Social Proof** | "Other companies in your position have found this works well" |
-| **Authority** | Reference experts, data, credentials |
-| **Liking** | Build genuine rapport; find common ground |
-| **Scarcity** | "This offer is available until Friday" (only if genuine) |
-| **Unity** | "We're in this together" — shared identity |
-
----
-
-### 8. Logrolling (Trading Across Issues)
-
-**Definition:** Identifying issues where parties have different priorities and trading concessions.
-
-**Process:**
-1. List all negotiable issues
-2. Rank each party's priorities
-3. Find complementary differences
-4. Trade: concede on low-priority items in exchange for gains on high-priority items
-
-```
-Issue          My Priority   Their Priority   Trade Opportunity
-Price          HIGH          HIGH             Hard to trade (both care)
-Timeline       LOW           HIGH             I can concede here
-Payment terms  HIGH          LOW              They can concede here
-Support level  MEDIUM        MEDIUM           Moderate trade value
-Exclusivity    LOW           HIGH             I can concede here
-```
-
-**Outcome:** I get favorable price and payment terms; they get faster timeline and exclusivity. Both win more than a simple price split.
-
----
-
-### 9. The Black Swan Method
-
-**Origin:** Chris Voss — based on the concept of unknown unknowns
-
-**Principle:** Every negotiation has 3-5 pieces of information that, if discovered, would change everything. These are "Black Swans."
-
-**How to find Black Swans:**
-- Ask open-ended questions and listen deeply
-- Pay attention to what they DON'T say
-- Look for inconsistencies
-- Meet face-to-face when possible (more information leaks in person)
-- Let silence work — people fill uncomfortable silence with information
-
-**Types of Black Swans:**
-| Type | Description | Example |
-|------|-------------|---------|
-| **Positive** | They value something you can easily provide | They need fast delivery (easy for you) |
-| **Negative** | Something that would kill the deal if known | They're about to be acquired |
-| **Normative** | Their underlying beliefs and values | Their CEO is personally invested in this project |
-
----
-
-## Preparation Templates
-
-### Quick Negotiation Prep (15 minutes)
+### Information Gathering Template
 
 ```markdown
-# Negotiation Prep: [Subject]
-**Date:** [Date] | **Counterpart:** [Name/Company]
+## Negotiation Intelligence
 
-## What I want (in priority order)
-1. [Must-have]
-2. [Important]
-3. [Nice-to-have]
+### About the Other Party
+- Decision maker: ___
+- Their likely BATNA: ___
+- Their constraints (budget, timeline, authority): ___
+- Their interests (not positions): ___
+- Their past negotiation behavior: ___
+- Relationship with their alternatives: ___
 
-## What they probably want
-1.
-2.
-3.
+### Market Context
+- Industry benchmarks: ___
+- Recent comparable deals: ___
+- Market conditions (buyer's market vs seller's market): ___
+- Time pressure on either side: ___
 
-## My BATNA
-If this fails, I will: ___
-
-## Their BATNA (estimate)
-If this fails, they will: ___
-
-## My opening
-Position: ___
-Rationale: ___
-
-## Three calibrated questions I'll ask
-1. "How...?"
-2. "What...?"
-3. "How...?"
-
-## Potential Black Swans to discover
-1.
-2.
-
-## My walk-away point
-I'll walk away if: ___
+### My Preparation
+- My unique value proposition: ___
+- Objective criteria supporting my position: ___
+- Questions I need answered during negotiation: ___
+- Potential creative solutions: ___
 ```
+
+### Interests vs Positions
+
+| Concept | Definition | Example |
+|---------|-----------|---------|
+| **Position** | What you say you want | "I want $150K salary" |
+| **Interest** | Why you want it | Financial security, recognition, market fairness |
+
+**Why it matters:** Positions are often incompatible. Interests usually are not.
+
+| Position Deadlock | Interest-Based Solution |
+|-------------------|------------------------|
+| "I need $150K" vs "Budget is $130K" | $130K base + $20K signing bonus + early review at 6 months |
+| "Delivery must be in 4 weeks" vs "We need 8 weeks" | Phased delivery: MVP in 4 weeks, full product in 8 |
+| "I want to work remotely" vs "We need people in office" | 3 days remote + 2 days office; remote Fridays guaranteed |
 
 ---
 
-## Specific Scenarios
+## Framework 2: Anchoring Strategy
 
-### Salary Negotiation
+### When to Anchor First
+
+| Situation | Anchor First? | Reasoning |
+|-----------|--------------|-----------|
+| You have strong information about the range | Yes | Your anchor shapes the ZOPA |
+| You are uncertain about the range | No | Let them anchor; you will learn information |
+| You have high power (strong BATNA) | Yes | Aggressive anchor from strength is credible |
+| Negotiating with an expert | Carefully | They may dismiss an unreasonable anchor |
+| Multiple competing offers on the table | Yes | Use your best offer as the anchor |
+
+### How to Set an Effective Anchor
+
+**The anchor formula:**
+
+```
+Effective Anchor = Aspiration Price + Justifiable Stretch
+
+Where "Justifiable Stretch" is the amount beyond your target that you can
+defend with objective criteria (market data, precedent, unique value).
+```
+
+**Anchoring rules:**
+
+1. **Be specific**: $147,500 is more anchoring than "around $150K" (precision signals research)
+2. **Justify immediately**: "Based on Levels.fyi data for this role in this market, the range is $140K-$160K"
+3. **Anchor ambitiously but credibly**: Too extreme and you lose credibility; too modest and you leave money on the table
+4. **Present multiple anchors**: "Companies at your stage typically pay $140K-$165K for this role"
+
+### Defending Against Anchors
+
+When the other party anchors first:
+
+1. **Do not counter-anchor immediately** — this validates their range
+2. **Acknowledge without accepting**: "I appreciate you sharing that. Let me share how I am thinking about this."
+3. **Re-anchor with your own number and justification**
+4. **Ask how they arrived at their number**: Often exposes weak reasoning
+
+---
+
+## Framework 3: Concession Strategy
+
+### The Concession Pattern
+
+Never make concessions of equal size. Use a **decreasing pattern** to signal you are approaching your limit:
+
+```
+Round 1: Concede $10,000  (signals flexibility)
+Round 2: Concede  $5,000  (signals narrowing room)
+Round 3: Concede  $2,000  (signals near the limit)
+Round 4: Concede    $500  (signals final offer territory)
+```
+
+**Rules for concessions:**
+
+| Rule | Reasoning |
+|------|-----------|
+| Never concede without getting something in return | Unilateral concessions signal weakness |
+| Make concessions smaller over time | Signals you are approaching your limit |
+| Label your concessions | "I am making an exception here because..." increases perceived value |
+| Keep track of all concessions made by both sides | Prevents asymmetric generosity |
+| Never split the difference first | The person who suggests splitting loses leverage |
+
+### Trading Concessions for Value
+
+Every concession should be paired with a request:
+
+```
+"I can do [concession] if you can [request]."
+
+Examples:
+- "I can accept the lower base if we can include a signing bonus of $X."
+- "I can extend the payment terms to 60 days if the contract is for 24 months instead of 12."
+- "I can reduce the scope if we can accelerate the timeline."
+```
+
+### The Reciprocity Principle
+
+Humans have a deep psychological need to reciprocate. Use this strategically:
+
+1. **Give first**: Small, thoughtful concessions early create obligation
+2. **Make concessions visible**: Explain what it costs you to concede
+3. **Request reciprocity explicitly**: "I have moved on price. Can you move on timeline?"
+4. **Match the scale**: Small concessions justify small reciprocity; large concessions justify large reciprocity
+
+---
+
+## Framework 4: Multi-Issue Negotiations
+
+### Issue Scoring Matrix
+
+Before negotiating, score each issue by importance and flexibility:
+
+| Issue | Importance (1-10) | My Ideal | My Walk-Away | Their Likely Priority |
+|-------|-------------------|----------|-------------|----------------------|
+| Salary | 9 | $160K | $140K | Medium (budget exists) |
+| Equity | 7 | 0.5% | 0.2% | Low (early stage) |
+| Start date | 3 | 4 weeks | 2 weeks | High (urgent need) |
+| Remote work | 8 | 4 days/week | 2 days/week | Medium |
+| Title | 4 | Director | Senior | Low |
+
+### Logrolling: Trading Across Issues
+
+Logrolling means conceding on issues you care less about in exchange for wins on issues you care more about.
+
+**From the table above:**
+- I care less about start date (3) and title (4)
+- They likely care a lot about start date
+- **Trade**: I accept a 2-week start date and "Senior" title in exchange for 4 days remote and 0.4% equity
+
+### Package Deals vs Issue-by-Issue
+
+| Approach | Pros | Cons | Best For |
+|----------|------|------|----------|
+| **Package deal** | Enables logrolling; harder to get stuck on one issue | More complex to evaluate | Multi-issue negotiations with trade-off potential |
+| **Issue-by-issue** | Simpler; clear progress | Easy to get stuck; no trade-offs | Simple negotiations with few issues |
+
+**Default recommendation:** Always negotiate as a package when there are 3+ issues. This is where the most value is created.
+
+---
+
+## Framework 5: Salary Negotiation
+
+### The Complete Salary Negotiation Playbook
+
+**Phase 1: Research (before any conversation)**
+
+| Data Source | What to Look For |
+|------------|-----------------|
+| Levels.fyi | Exact compensation bands by company, level, location |
+| Glassdoor | Salary ranges and interview experiences |
+| Blind | Anonymous comp data from verified employees |
+| LinkedIn | Job postings that include salary ranges |
+| Salary.com | Traditional salary benchmarks |
+| Network | Ask peers at similar levels (many are willing to share) |
+
+**Phase 2: Deflect early salary questions**
+
+If asked "What are your salary expectations?" early in the process:
+
+> "I would like to learn more about the role and responsibilities before discussing compensation. I am confident we can find a number that works for both of us. What is the range budgeted for this position?"
+
+**Phase 3: After receiving an offer**
+
+1. **Express enthusiasm** (never criticize the offer)
+2. **Ask for time**: "Thank you. I am excited about this. Can I have until [2-3 days] to review the full package?"
+3. **Analyze** using the Issue Scoring Matrix above
+4. **Counter** using your anchor and justification
+
+**Phase 4: The counter conversation**
+
+```
+"Thank you for the offer. I am genuinely excited about this role and the team.
+
+After researching market rates for [role] at [level] in [city], and considering
+my experience with [specific high-value skill/achievement], I was targeting a
+base salary of $[anchor].
+
+Specifically, I am basing this on:
+1. [Data point 1: market data]
+2. [Data point 2: comparable offers or current comp]
+3. [Data point 3: unique value you bring]
+
+Is there flexibility to get closer to that range?"
+```
+
+### Script Templates
+
+**Responding to "That is above our range":**
+
+> "I understand there may be constraints on base salary. Could we explore other parts of the package? For instance, a signing bonus, additional equity, or an accelerated performance review at 6 months?"
+
+**Responding to "This is our final offer":**
+
+> "I appreciate your transparency. Before I make my final decision, could you help me understand — is there any flexibility on [specific non-salary item like equity, start date, title, or remote policy]?"
+
+**If you have a competing offer:**
+
+> "I want to be straightforward — I have received another offer at $[amount]. I prefer your company because of [genuine reason], but I want to make sure the compensation reflects the market. Can we find a way to close the gap?"
+
+### Negotiating Beyond Base Salary
+
+| Component | Negotiability | Typical Flexibility |
+|-----------|--------------|-------------------|
+| Base salary | Medium | 5-15% above initial offer |
+| Signing bonus | High | Often used to bridge salary gaps |
+| Equity/RSUs | Medium-High | Especially at startups |
+| Annual bonus target | Low | Usually set by band |
+| PTO/vacation | Medium | 1-2 extra weeks is common |
+| Remote flexibility | High | Growing acceptance |
+| Title | Medium-High | Low cost for employer, high signal value |
+| Relocation package | High | If applicable |
+| Learning budget | High | $1K-$10K is common |
+| Start date | High | 2-6 weeks flexibility typical |
+
+---
+
+## Framework 6: Business Deal Negotiation
+
+### Vendor Contract Negotiation
+
+| Lever | Tactic |
+|-------|--------|
+| **Price** | Get 3+ competing quotes; ask for volume discounts; request annual pricing vs monthly |
+| **Payment terms** | Negotiate Net 60 or Net 90; request quarterly instead of monthly billing |
+| **Contract length** | Shorter commitment for first contract; longer for discounts |
+| **SLA** | Define uptime guarantees with financial penalties; specify response times |
+| **Exit clause** | 30-day termination with prorated refund; data export guarantees |
+| **Auto-renewal** | Remove auto-renewal or require 90-day notice |
+
+### Partnership Agreement Framework
+
+| Topic | Must Align On |
+|-------|-------------|
+| **Value exchange** | What does each party contribute and receive? |
+| **Revenue sharing** | Percentage split, measurement method, payment terms |
+| **Exclusivity** | Is either party restricted from working with competitors? |
+| **IP ownership** | Who owns what is created during the partnership? |
+| **Duration** | Fixed term with renewal option vs evergreen |
+| **Termination** | Conditions, notice period, wind-down obligations |
+| **Dispute resolution** | Mediation, then arbitration, then litigation (specify jurisdiction) |
+
+---
+
+## Framework 7: Difficult Negotiations
+
+### Dealing with Hardball Tactics
+
+| Tactic | How to Recognize It | How to Counter It |
+|--------|-------------------|-------------------|
+| **Good cop / Bad cop** | One person is harsh, another is sympathetic | Address both as a team: "I would like to negotiate with your team, not between members of it" |
+| **Artificial deadline** | "This offer expires at midnight" | Test it: "If I need one more day, does the deal really disappear?" |
+| **Nibbling** | Adding small demands after agreement in principle | "We agreed on the package. Adding items now means reopening the whole negotiation" |
+| **Highball/Lowball** | Extreme opening offer meant to anchor | Ignore the anchor; re-anchor with your data |
+| **Flinching** | Dramatic negative reaction to your proposal | Pause. Do not immediately concede. Ask "What specifically concerns you?" |
+| **Take it or leave it** | Refusing to negotiate | "I respect that position. Before I decide, can you help me understand the reasoning?" |
+
+### Negotiating with More Powerful Parties
+
+When you have less power:
+
+1. **Prepare more** — Knowledge compensates for power
+2. **Build coalitions** — Unite with others in similar positions
+3. **Focus on interests, not positions** — Find ways to create value for both sides
+4. **Use objective criteria** — Market data and precedent level the playing field
+5. **Strengthen your BATNA** — Even a small improvement changes the dynamic
+6. **Be willing to walk away** — The willingness to walk away is itself a source of power
+
+### Deadlock Breaking Strategies
+
+| Strategy | How It Works |
+|----------|-------------|
+| **Change the people** | Bring in a neutral mediator or escalate to higher-level decision makers |
+| **Change the scope** | Add or remove issues to create new trade-off possibilities |
+| **Change the timeline** | Phased agreements: agree on what you can now, defer contentious issues |
+| **Change the frame** | Reframe from "dividing the pie" to "growing the pie together" |
+| **Take a break** | Emotions cool; new perspectives emerge |
+| **Use objective criteria** | Agree to let market data, precedent, or an expert decide |
+
+---
+
+## Framework 8: Cross-Cultural Negotiation
+
+| Dimension | Western (US/UK/AU) | East Asian (CN/JP/KR) | Middle Eastern | Latin American |
+|-----------|-------------------|----------------------|----------------|----------------|
+| **Pace** | Fast, get to business | Slow, build relationship first | Moderate, hospitality matters | Relationship-first |
+| **Direct/Indirect** | Direct | Indirect (saving face) | Moderately direct | Indirect |
+| **Decision making** | Individual authority | Consensus-based | Hierarchical | Hierarchical |
+| **Contracts** | Detailed, binding | Framework, flexible | Framework with trust | Flexible |
+| **Silence** | Uncomfortable | Normal, strategic | Varies | Varies |
+
+**Universal rules:**
+- Research cultural norms before negotiating across cultures
+- When in doubt, be more formal, not less
+- Build relationships before discussing business terms
+- Show respect for hierarchy and seniority
+- Avoid assumptions; ask questions
+
+---
+
+## Templates and Worksheets
+
+### Pre-Negotiation Preparation Sheet
 
 ```markdown
-# Salary Negotiation Prep
+# Negotiation Prep: [Subject/Date]
 
-## Research
-- Market rate for role: $___K - $___K
-- My value (quantified achievements): ___
-- Company's financial position: ___
+## My Position
+- Goal (aspiration): ___
+- Walk-away (reservation): ___
+- BATNA: ___
+- BATNA strength (1-10): ___
 
-## My Target: $___K
-## My First Ask: $___K (10-20% above target)
-## My Walk-Away: $___K
+## Their Position (Estimated)
+- Their likely goal: ___
+- Their likely walk-away: ___
+- Their BATNA: ___
+- Their constraints: ___
 
-## Non-salary items to negotiate
-- [ ] Signing bonus
-- [ ] Equity/stock options
-- [ ] Remote work flexibility
-- [ ] Title
-- [ ] Vacation days
-- [ ] Professional development budget
-- [ ] Performance review timeline
-- [ ] Start date
+## ZOPA
+- Estimated range: [$___ to $___]
+- My target within ZOPA: $___
 
-## Key phrases
-- "I'm excited about this opportunity. Based on my research and experience, I was thinking in the range of..."
-- "Is there flexibility on that number?"
-- "What would it take for someone in this role to earn [target]?"
-- "I understand the budget constraints. What about [non-salary item]?"
+## Issues and Priorities
+| Issue | My Priority (1-10) | Their Priority (est.) |
+|-------|--------------------|-----------------------|
+| ___ | ___ | ___ |
+| ___ | ___ | ___ |
+| ___ | ___ | ___ |
 
-## If they lowball
-- Don't react emotionally
-- "I appreciate the offer. Help me understand how you arrived at that number?"
-- Present counter-evidence (market data, your achievements)
-- "If salary is fixed, can we discuss the full package?"
+## Strategy
+- Opening anchor: ___
+- Justification for anchor: ___
+- Concession plan (what I will give, in what order): ___
+- Questions to ask: ___
+- Potential creative solutions: ___
 ```
 
-### Business Deal
+### Post-Negotiation Review
 
 ```markdown
-# Business Deal Negotiation
+# Negotiation Review: [Subject/Date]
 
-## Deal parameters
-| Issue | My Ideal | My Minimum | Their Likely Position |
-|-------|----------|-----------|---------------------|
-| Price | | | |
-| Terms | | | |
-| Timeline | | | |
-| Volume | | | |
-| Exclusivity | | | |
-| Warranties | | | |
+## Outcome
+- Final agreement: ___
+- vs. My aspiration: ___
+- vs. My reservation: ___
 
-## Value creation opportunities
-What can we add to the deal that's low-cost for me but high-value for them?
-1.
-2.
+## What Worked
+1. ___
+2. ___
 
-What's low-cost for them but high-value for me?
-1.
-2.
+## What I Would Do Differently
+1. ___
+2. ___
+
+## Key Learnings
+- About my preparation: ___
+- About the other party: ___
+- About my negotiation style: ___
+
+## Principles for Next Time
+1. ___
+2. ___
 ```
 
-### Vendor/Contract Negotiation
-
-Key levers beyond price:
-- Payment terms (Net 30 → Net 60)
-- Volume discounts
-- Multi-year commitment for lower rate
-- SLA guarantees with penalties
-- Right to audit
-- Exit clauses
-- Price lock / escalation caps
-
-### Conflict Resolution
-
-```markdown
-## Conflict Resolution Framework
-
-1. **Acknowledge** their perspective (labeling)
-   "It sounds like you feel [emotion] about [situation]."
-
-2. **Separate** the person from the problem
-   "We both want [shared goal]. The challenge is [specific problem]."
-
-3. **Explore** interests
-   "Help me understand what's most important to you here."
-
-4. **Generate** options together
-   "What if we...?"
-
-5. **Agree** on objective criteria
-   "What would a fair solution look like to both of us?"
-```
+Maintaining a set of personal negotiation principles — learned from both successes and failures — helps you improve systematically. [KeepRule](https://keeprule.com) provides a structured way to capture these principles and review them before your next important negotiation.
 
 ---
 
-## Tactical Toolkit
+## Decision Rules for Common Scenarios
 
-### Phrases That Work
+### Should I negotiate this?
 
-| Situation | Say This | Avoid This |
-|-----------|----------|------------|
-| Opening | "What's the biggest challenge you're facing?" | "Here's what I want..." |
-| Deadlock | "How are we supposed to move forward?" | "Take it or leave it" |
-| Unreasonable demand | "How am I supposed to do that?" | "That's ridiculous" |
-| Building rapport | "That's right" (after summarizing their view) | "I understand" (sounds dismissive) |
-| Saying no | "How would I explain that to my team?" | "No" (blunt rejection) |
-| Price pushback | "What does a fair price look like to you?" | "Our price is firm" |
-| Getting information | "Tell me more about that..." | Rapid-fire questions |
+| Situation | Negotiate? | Reasoning |
+|-----------|-----------|-----------|
+| Job offer from a company you want to join | Always | Companies expect it; you will never have more leverage |
+| Salary at current job | Yes, annually | Staying without negotiating means falling behind market |
+| Freelance rate with new client | Always | Sets the baseline for the entire relationship |
+| Vendor contract renewal | Always | Switching costs give you leverage; they want to keep you |
+| Car purchase | Always | Markup is substantial; dealers expect negotiation |
+| Rent with individual landlord | Often | Especially in soft markets or for long-term leases |
+| Retail purchase (fixed price) | Rarely | Low ROI for your time |
 
-### Body Language Tips
-- Mirror their posture (builds unconscious rapport)
-- Lean in when they're speaking (shows engagement)
-- Maintain comfortable eye contact (60-70% of the time)
-- Use open hand gestures (palms visible)
-- Nod slowly while listening (encourages them to continue)
+### When to walk away
 
----
-
-## Common Mistakes
-
-| Mistake | Why It Fails | Instead |
-|---------|-------------|---------|
-| Accepting the first offer | Leaves value on the table | Always counter, even if the offer seems fair |
-| Negotiating against yourself | Making concessions without receiving any | "I can do X if you can do Y" |
-| Revealing your deadline | Gives the other side time leverage | Let them feel urgency, not you |
-| Getting emotional | Clouds judgment, reveals information | Pause, label the emotion, take a break |
-| Focusing only on price | Misses creative solutions | Negotiate the full package |
-| Poor preparation | Winging it = losing | Use the prep templates above |
-| Win-lose mentality | Damages relationships, misses mutual gains | Look for trades across issues |
+Walk away when:
+- The best available deal is worse than your BATNA
+- The other party negotiates in bad faith (lies, hidden terms)
+- You feel pressured to decide without adequate information
+- The deal requires compromising a core principle
+- The relationship cost of the negotiation exceeds the deal value
 
 ---
 
-## Resources
+## Further Resources
 
-**Books:**
-- *Never Split the Difference* — Chris Voss
-- *Getting to Yes* — Roger Fisher & William Ury
-- *Influence* — Robert Cialdini
-- *Bargaining for Advantage* — G. Richard Shell
-- *Getting More* — Stuart Diamond
-
-**Practice:**
-For more principles and frameworks applied to real-world decision scenarios — including negotiation, career, and strategic choices — visit [KeepRule](https://keeprule.com/en/principles), a curated library of actionable wisdom from the world's sharpest minds.
+- [Getting to Yes](https://www.williamury.com/books/getting-to-yes/) — Fisher, Ury, Patton (the foundational text)
+- [Never Split the Difference](https://www.blackswanltd.com/never-split-the-difference) — Chris Voss (FBI negotiation tactics)
+- [Negotiation Genius](https://www.hbs.edu/faculty/Pages/item.aspx?num=26289) — Malhotra and Bazerman
+- [KeepRule](https://keeprule.com) — Build and maintain your personal negotiation principles for continuous improvement
+- [Influence](https://www.influenceatwork.com/) — Robert Cialdini (psychology of persuasion)
 
 ---
 
 ## Contributing
 
-Have a negotiation technique or template to add? PRs welcome.
-
----
+If you have negotiation frameworks or templates that have served you well in practice, please contribute via pull request. Real-world tested approaches are especially valuable.
 
 ## License
 
-MIT License — see [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
